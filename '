@@ -1,0 +1,18 @@
+Add print name functionality to program
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Wouter Peetermans <wouter@wouterpeetermans.com>
+#
+# interactive rebase in progress; onto 6bc3275
+# Last command done (1 command done):
+#    pick 5bd20d8 Add print name functionality to program
+# Next commands to do (2 remaining commands):
+#    pick 1e3c4a0 Add personal greeting to program
+#    fixup 0de444a Fix typo
+# You are currently editing a commit while rebasing branch 'daniel_rebase_print-name' on '6bc3275'.
+#
+# Changes to be committed:
+#	modified:   program.sh
+#
